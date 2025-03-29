@@ -9,7 +9,7 @@ center = (250, 250)
 radius = 100
 
 # Define color (BGR format) and thickness (-1 for filled circle)
-color = (0, 255, 0)  # Green color
+color = (255, 255, 0)  # Green color
 thickness = 2
 
 # Draw the circle
